@@ -70,6 +70,7 @@
         display: block;
     }
     .step-box {
+        width: 90%;
         margin: 20px auto;
     }
     .step-box:nth-child(3){
